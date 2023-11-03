@@ -1,0 +1,30 @@
+____________________
+Pink Car
+
+Vin Number: 12345
+Manufacturer: Ford
+State: Off
+Year: 2020
+____________________
+The engine turns on
+The boat tears up the water and begins to move forwards.
+____________________
+White Boat
+
+Vin Number: 1A2B3C
+Manufacturer: Yamaha
+State: Currently moving forwards
+Year: 1962
+____________________
+This vehicle cannot move backwards.
+The engine is off.
+____________________
+Red Motorcycle
+
+Vin Number: ABCDE
+Manufacturer: Harely
+State: Off
+Year: 2019
+____________________
+The two cars are the same.
+The boat and the plane are not the same.
